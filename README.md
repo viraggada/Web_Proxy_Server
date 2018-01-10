@@ -1,13 +1,7 @@
-# ECEN 5273: Network Systems: Programming Assignment 2 #
-
-Author: Virag Gada
-
-Date: 12/12/2017
+# ECEN 5273: Network Systems: Programming Assignment 4 #
 
 Goal: To create a webproxy that handles multiple simultaneous requests from multiple clients,
       pass them to the HTTP server and handle returning traffic from HTTP server to clients.
-
-Programming Language - C
 
 File structure:
 ```
